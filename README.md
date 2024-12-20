@@ -12,20 +12,6 @@ This repository contains a machine learning model for the classification of oral
 - `dataset/`: Directory containing training (`TRAIN`) and testing (`TEST`) datasets.
 - `oral_disease_model.keras`: Trained model file.
 
-- Usage
-
-    Preprocessing:
-
-python preprocessing.py
-
-Training:
-
-python train_model.py
-
-Evaluation:
-
-    python evaluate.py
-
 Results
 
     Confusion Matrix
